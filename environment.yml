@@ -1,0 +1,44 @@
+name: null
+
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - bokeh
+  - captum
+  - cudatoolkit=11.3
+  - datashader
+  - gh
+  - git
+  - holoviews
+  - hvplot
+  - ipywidgets
+  - jupyterlab
+  - jupyterlab-git
+  - jupyterlab-nvdashboard
+  - jupyterlab-lsp
+  - matplotlib
+  - numba
+  - numpy
+  - optuna
+  - pandas
+  - panel
+  - pip
+  - pip:
+    - -r requirements.txt
+  - pyarrow
+  - python=3.9
+  - python-language-server
+  - pytorch=1.10
+  - pytorch-lightning
+  - pyviz_comms
+  - scikit-learn
+  - scipy
+  - tensorboard
+  - torchaudio
+  - torchmetrics
+  - torchtext
+  - torchvision
+  - wandb
