@@ -1,9 +1,10 @@
 # introduction-to-machine-learning
 Repository of course materials for a three-day course on machine learning using Scikit-Learn and PyTorch
 
-## Day 1: 
+## Day 1: Lectures
 
-TODO: insert links to lecture materials.
+* Morning: Introduction to Machine Learning
+* Afternoon: Introduction to Deep Learning
 
 ## Day 2: Introduction to Scikit-Learn
 
