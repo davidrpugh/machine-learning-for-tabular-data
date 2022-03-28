@@ -19,6 +19,7 @@ dependencies:
   - jupyterlab-git
   - jupyterlab-nvdashboard
   - jupyterlab-lsp
+  - kaggle
   - matplotlib
   - numba
   - numpy
@@ -38,6 +39,7 @@ dependencies:
   - scipy
   - tensorboard
   - torchaudio
+  - torchinfo
   - torchmetrics
   - torchtext
   - torchvision
