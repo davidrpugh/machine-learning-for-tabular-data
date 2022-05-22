@@ -10,6 +10,7 @@ dependencies:
   - captum
   - cudatoolkit=11.3
   - datashader
+  - deepchem
   - gh
   - git
   - holoviews
@@ -35,6 +36,7 @@ dependencies:
   - pytorch=1.10
   - pytorch-lightning
   - pyviz_comms
+  - rdkit
   - scikit-learn
   - scipy
   - tensorboard
