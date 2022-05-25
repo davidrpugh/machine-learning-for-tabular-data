@@ -14,5 +14,5 @@ Repository of course materials for a three-day course on machine learning using 
 * [Lecture Slides](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EYVl3sggch1HqEKHZO8O9t4BpXwFB3NCMCM0tLue6H0T8Q?e=un3g2X)
 
 
-## Day 2: Introduction to Deep Learning
-* <a href="[https://colab.research.google.com/github/KAUST-CTL/introduction-to-machine-learning/blob/intro-to-ml-for-chemistry-20220524/notebooks/introduction-to-ml-part-2.ipynb](https://colab.research.google.com/drive/1pTiXjmEyMFtHeyuqi0u594Rq2Ta6vXJP?usp=sharing)" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+## Day 3: Introduction to Deep Learning
+* <a href="https://colab.research.google.com/github/KAUST-CTL/introduction-to-machine-learning/blob/intro-to-ml-for-chemistry-20220524/notebooks/introduction-to-ml-part-2.ipynb](https://colab.research.google.com/drive/1pTiXjmEyMFtHeyuqi0u594Rq2Ta6vXJP?usp=sharing)" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
