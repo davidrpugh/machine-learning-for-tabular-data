@@ -15,4 +15,11 @@ Repository of course materials for a three-day course on machine learning using 
 
 
 ## Day 3: Introduction to Deep Learning
-* <a href="https://colab.research.google.com/github/KAUST-CTL/introduction-to-machine-learning/blob/intro-to-ml-for-chemistry-20220524/notebooks/introduction-to-ml-part-2.ipynb](https://colab.research.google.com/drive/1pTiXjmEyMFtHeyuqi0u594Rq2Ta6vXJP?usp=sharing)" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+### 1. PyTorch Tutorial
+<a href="https://colab.research.google.com/drive/1IAqvslVt9rdnfL7tasNsnYvWmvtziBzB?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+### 2. NN in Numpy 
+<a href="https://colab.research.google.com/drive/1pTiXjmEyMFtHeyuqi0u594Rq2Ta6vXJP?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+
