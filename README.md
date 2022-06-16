@@ -15,6 +15,9 @@ Repository of course materials for a three-day course on machine learning using 
 
 
 ## Day 3: Introduction to Deep Learning
+
+* [Lecture Slides](https://www.dropbox.com/sh/o9u518j57rnv9t6/AAD_EmkLTP1Iq85-KggHH8hoa?dl=0)
+
 ### 1. PyTorch Tutorial
 <a href="https://colab.research.google.com/drive/1IAqvslVt9rdnfL7tasNsnYvWmvtziBzB?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
