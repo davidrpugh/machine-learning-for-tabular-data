@@ -24,8 +24,12 @@ Repository of course materials for a three-day course on machine learning using 
 ### 2. NN Demo 
 <a href="https://colab.research.google.com/drive/1pTiXjmEyMFtHeyuqi0u594Rq2Ta6vXJP?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-### 2. NN for Chemistry Applications
+### 3. NN for Chemistry Applications
 <a href="https://colab.research.google.com/drive/1PpTlKspED3kxv1a5U4py7fLHeio2y6D9?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+### 3. MNIST Demo
+<a href="https://colab.research.google.com/drive/12rEiq0q1mVJ1Plm1xjdNwjo3_Hf6HJBl?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
 
 
