@@ -4,8 +4,16 @@
 
 ## Day 1: Mathematics for AI
 
-* Lecture notes: Linear Algebra
-* Lecture notes: Calculus
+### Lecture notes:
+
+* [Linear Algebra](./doc/linear-algebra.pdf)
+* [Multivariable Calculus](./doc/multivariable-calculus.pdf)
+
+### Problem sets:
+
+* [Linear Algebra](./doc/linear-algebra-problems.pdf)
+* [Multivariable Calculus](./doc/multivariable-calculus-problems.pdf)
+
 
 ## Day 2: Introduction to Python
 
