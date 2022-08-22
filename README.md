@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KAUST-CTL/introduction-to-machine-learning.git/ai-summer-school-20220821)
+
 # introduction-to-machine-learning
 Repository of course materials for a three-day course on machine learning using Scikit-Learn and PyTorch
 
