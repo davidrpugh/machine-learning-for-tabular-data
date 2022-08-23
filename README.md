@@ -11,13 +11,17 @@
 
 ### Problem sets:
 
-* [Linear Algebra](./doc/linear-algebra-problems.pdf)
+* [Linear Algebra](./doc/linea-algebra-problems.pdf)
 * [Multivariable Calculus](./doc/multivariable-calculus-problems.pdf)
 
 
 ## Day 2: Introduction to Python
 
-* Lecture notes: [Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/)
+### Lecture notes: 
+
+* [Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/)
+* Other Software Carpentry [lecture notes](https://software-carpentry.org/lessons/).
+
 * <a href="https://colab.research.google.com/github/KAUST-CTL/introduction-to-machine-learning/blob/ai-summer-school-20220821/notebooks/sandbox.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Day 3: Introduction to Machine Learning
