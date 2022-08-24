@@ -38,8 +38,20 @@
 
 ## Day 4: Introduction to Deep Learning
 
-* Lecture notes: Introduction to Deep Learning, Part III
-* <a href="https://colab.research.google.com/github/KAUST-CTL/introduction-to-machine-learning/blob/ai-summer-school-20220821/notebooks/introduction-to-pytorch.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-* <a href="https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-CTL/introduction-to-machine-learning/blob/ai-summer-school-20220821/notebooks/introduction-to-pytorch.ipynb" target="_parent"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open in Kaggle" /></a>
+### Lecture notes: 
+
+* [Introduction to Deep Learning, Part III](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EfblAfoB8rJDo9T2-df_vAgBoOe3PZfFWbXafD2cltV_2A?e=0jrEZD)
+
+### Pratical
+
+#### Introduction to PyTorch, Part I
+
+* <a href="https://colab.research.google.com/github/KAUST-CTL/introduction-to-machine-learning/blob/ai-summer-school-20220821/notebooks/introduction-to-pytorch-part-1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* <a href="https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-CTL/introduction-to-machine-learning/blob/ai-summer-school-20220821/notebooks/introduction-to-pytorch-part-1.ipynb" target="_parent"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open in Kaggle" /></a>
+
+#### Introduction to PyTorch, Part II
+
+* <a href="https://colab.research.google.com/github/KAUST-CTL/introduction-to-machine-learning/blob/ai-summer-school-20220821/notebooks/introduction-to-pytorch-part-2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* <a href="https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-CTL/introduction-to-machine-learning/blob/ai-summer-school-20220821/notebooks/introduction-to-pytorch-part-2.ipynb" target="_parent"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open in Kaggle" /></a>
 
 ## Day 5: Kaggle Competition
