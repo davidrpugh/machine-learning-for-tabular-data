@@ -55,3 +55,5 @@
 * <a href="https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-CTL/introduction-to-machine-learning/blob/ai-summer-school-20220821/notebooks/introduction-to-pytorch-part-2.ipynb" target="_parent"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open in Kaggle" /></a>
 
 ## Day 5: Kaggle Competition
+
+[Arabic Handwritten Digits Competition](https://www.kaggle.com/t/89592b564b7543158dd83b04bcbc2519)
