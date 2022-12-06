@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KAUST-Academy/introduction-to-machine-learning/HEAD)
+
 # Introduction to Machine Learning
 
 There is strong demand for machine learning (ML) skills and expertise to solve challenging business problems both globally and locally in KSA. This course will help learners build capacity in core ML tools and methods and enable them to develop their own machine learning applications. This course covers the basic theory behind ML algorithms but the majority of the focus is on hands-on examples using [Scikit Learn](https://scikit-learn.org/stable/index.html).
