@@ -163,22 +163,66 @@ The material covered in this lecture is drawn from the following chapters of the
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
-| Ensemble Methods, II |[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-2.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-2.ipynb)
+| Ensemble Methods, II | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-2.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-2.ipynb)
 
-### Day 3: [Introduction to Machine Learning, Part III](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EeueWHxeVMxKjkth_Qk9f0UBfJhcRRqVMxyXXKJkxC53oA?e=wHk5xD)
+### Module 3: [Introduction to Machine Learning, Part III](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EeueWHxeVMxKjkth_Qk9f0UBfJhcRRqVMxyXXKJkxC53oA?e=wHk5xD)
 
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb)
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb)
+#### Lecture 1: Dimensionality Reduction 
+ 
+Many ML systems suffer from the curse of dimensionality: the training time of many ML systems increases rapidly as the number of features in the dataset increases. This lecture covers the key ideas of dimensionality reduction and various algorithms for performing dimensionality reduction such as Principal Components Analysis (PCA), Locally Linear Embedding (LLE), et al. Tradeoffs between the various methods will be discussed. 
+ 
+The material covered in this lecture is drawn from the following chapters of the reference texts. 
+ 
+* Chapter 8 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 5 of ML with PyTorch and Sklearn 
 
-* Consolidation of previous days content via Q/A and live coding demonstrations.  
-* The morning session will focus on the theory behind dimensionality reduction and unsupervised learning techniques as well as introducing the theory behind neural networks by covering chapters 8-10 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).  
-* The afternoon session will focus on applying the techniques learned in the morning session using [Scikit Learn](https://scikit-learn.org/stable/index.html), followed by a short assessment using the Kaggle data science competition platform.
+| **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
+|--------------|:------------------------:|:------------------:|
+| Dimensionality Reduction | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb)
 
-### Day 4: Introduction to Machine Learning, Part IV
+#### Lecture 2: Unsupervised Learning Techniques 
+ 
+This lecture will cover the key ideas behind unsupervised learning techniques and will include an in-depth discussion of the K-means algorithm. Other approaches to unsupervised learning will be discussed such as DBSCAN, and Gaussian Mixture Models (GMMs).  
+ 
+The material covered in this lecture is drawn from the following chapters of the reference texts. 
+ 
+* Chapter 9 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 10 of ML with PyTorch and Sklearn
 
-* Consolidation of previous days content via Q/A and live coding demonstrations.  
-* The morning session will focus on applying the techniques learned over the previous days using Scikit-Learn.
-* The afternoon session will allow time for a final assessment as well as additional time for learners to complete any of the previous assessments.
+| **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
+|--------------|:------------------------:|:------------------:|
+| Dimensionality Reduction | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb)
+
+### Module 4: Introduction to Machine Learning, Part IV
+
+#### Lecture 1: Introduction to Artificial Neural Networks 
+ 
+While neural networks are not (yet?) state-of-the-art approach for most tabular data problems, an understanding of the key ideas of basic neural networks such as the multi-layer perceptron (MLP) is important. We will learn how to implement linear and logistic regression using MLPs as well as how to apply MLPs to tabular data problems. 
+ 
+The material covered in this lecture is drawn from the following chapters of the reference texts. 
+ 
+* Chapter 10 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 11 of ML with PyTorch and Sklearn 
+
+#### Lecture 2: Fundamentals for DNN training and validation 
+ 
+The material covered in this lecture is drawn from the following chapters of the reference texts. 
+ 
+* Chapter 11 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 12 of ML with PyTorch and Sklearn 
+
+#### Lecture 3: Optimizers, learning rates and batch sizes 
+ 
+The material covered in this lecture is drawn from the following chapters of the reference texts. 
+ 
+* Chapter 11 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 12 of ML with PyTorch and Sklearn 
+
+### Module 5:
+
+#### Lecture 1: Deploying machine learning pipelines, part 1 
+ 
+A trained ML system that is never deployed is one of little practical value. Deployment of ML systems presents some unique challenges that are rarely discussed in university courses. We will spend the last lecture of the course learning how to deploy ML algorithms culminating with students learning to embed and deploy their own ML systems as Gradio applications on HuggingFace Spaces. 
 
 ## Assessment
 
