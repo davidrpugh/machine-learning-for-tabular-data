@@ -23,10 +23,88 @@ The first part of this course covers chapters 1-10 of [Hands-on Machine Learning
 
 ## Lessons
 
-### Day 1: [Introduction to Machine Learning, Part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ESpKKIFbCsVIt06sWnhs7RcBniV7RQAUs2jhOwEAenOm4w?e=FWmjvp)
+### Module 1: [Introduction to Machine Learning, Part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ESpKKIFbCsVIt06sWnhs7RcBniV7RQAUs2jhOwEAenOm4w?e=FWmjvp)
 
-* The morning session will focus on the theory behind linear models for solving basic classification and regression problems by covering chapters 1-4 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).  
-* The afternoon session will focus on applying the techniques learned in the morning session using [Scikit Learn](https://scikit-learn.org/stable/index.html), followed by a short assessment on the Kaggle data science competition platform.
+#### Lecture 1: The Machine Learning Landscape
+
+The initial lecture provides a high-level overview of the machine learning (ML) landscape and addresses the following questions.  
+ 
+* What is ML? 
+* Why use ML? 
+* What are the several types of ML systems? 
+* What are some of the main challenges of applying ML in practice? 
+ 
+The material covered in this lecture is drawn from the following chapters of the reference texts. 
+ 
+* Chapter 1 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
+* Chapter 1 of ML with PyTorch and Sklearn
+
+#### Lecture 2: End-to-End Machine Learning Project 
+ 
+In this lecture, we will define and discuss the steps for any applied ML project by working through an end-to-end ML project using a real-world dataset as a group.  
+ 
+1. Framing the problem 
+2. Getting the data 
+3. Exploratory data analysis 
+4. Preparing the data for ML algorithms 
+5. Selecting promising ML algorithms and training 
+6. Tuning ML algorithms for performance 
+7. Deploying tuned ML algorithms 
+ 
+The goal is to provide students with a roadmap or checklist that they can apply to most any ML project. Subsequent lectures will focus on various steps defined above.  
+ 
+The material covered in this lecture is drawn from the following chapters of the reference texts. 
+ 
+* Chapter 2 of Hands-on ML with Sklearn, Keras, and TF 
+* Appendix A of Hands-on ML with Sklearn, Keras, and TF
+
+| **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
+|--------------|:------------------------:|:------------------:|
+| Example ML Project | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) |
+
+#### Lecture 3: Classification
+ 
+In this lecture we will cover the key ideas of one of the major learning tasks performed by supervised ML systems: classification.  
+ 
+* Differentiate between several types of classification: binary and multi-class classification; multi-output and multi-label classification; soft vs hard classification. 
+* Selecting an appropriate performance metric is a critical early step in developing a classification system.  
+* Discuss the importance of calibrating predicted class probabilities. 
+ 
+The material covered in this lecture is drawn from the following chapters of the reference texts. 
+  
+* Chapter 3 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 2 of ML with PyTorch and Sklearn 
+
+| **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
+|--------------|:------------------------:|:------------------:|
+| Example ML Project | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) |
+
+#### Lecture 4: Training Models, part I 
+ 
+This lecture provides an in-depth discussion of the process of training ML models using stochastic gradient descent. The process will be illustrated using various linear regression models. 
+ 
+* Linear regression 
+* Polynomial regression 
+* Regularized linear regression (Ridge, LASSO, and ElasticNet). 
+ 
+The material covered in this lecture is drawn from the following chapters of the reference texts. 
+ 
+* Chapter 4 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 2 of ML with PyTorch and Sklearn 
+
+| **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
+|--------------|:------------------------:|:------------------:|
+| Linear Regression with NumPy | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) |
+| Introduction to Scikit-Learn | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-1.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-1.ipynb) |
+
+#### Lecture 5: Training Models, part II 
+ 
+Review the key ideas presented in the previous lecture but this time using logistic regression (with and without regularization) to illustrate the training process. 
+ 
+The material covered in this lecture is drawn from the following chapters of the reference texts. 
+ 
+* Chapter 4 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 2 of ML with PyTorch and Sklearn 
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
