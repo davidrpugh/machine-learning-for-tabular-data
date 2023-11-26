@@ -58,8 +58,8 @@ The goal is to provide students with a roadmap or checklist that they can apply 
  
 The material covered in this lecture is drawn from the following chapters of the reference texts. 
  
-* Chapter 2 of Hands-on ML with Sklearn, Keras, and TF 
-* Appendix A of Hands-on ML with Sklearn, Keras, and TF
+* Chapter 2 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
+* Appendix A of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
@@ -92,7 +92,7 @@ This lecture provides an in-depth discussion of the process of training ML model
  
 The material covered in this lecture is drawn from the following chapters of the reference texts. 
  
-* Chapter 4 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 4 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 2 of ML with PyTorch and Sklearn 
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
@@ -106,7 +106,7 @@ Review the key ideas presented in the previous lecture but this time using logis
  
 The material covered in this lecture is drawn from the following chapters of the reference texts. 
  
-* Chapter 4 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 4 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 2 of ML with PyTorch and Sklearn 
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
@@ -122,7 +122,7 @@ In this lecture we will cover both linear and non-linear support vector machines
  
 The material covered in this lecture is drawn from the following chapters of the reference texts. 
  
-* Chapter 5 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 5 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 3 of ML with PyTorch and Sklearn
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
@@ -135,7 +135,7 @@ Tree-based models such as random forests and gradient-boosted trees are state-of
  
 The material covered in this lecture is drawn from the following chapters of the reference texts. 
  
-* Chapter 6 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 6 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 3 of ML with PyTorch and Sklearn 
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
@@ -148,7 +148,7 @@ Ensemble, tree-based models such as random forests and gradient-boosted trees ar
  
 The material covered in this lecture is drawn from the following chapters of the reference texts. 
  
-* Chapter 7 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 7 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 3 and 7 of ML with PyTorch and Sklearn 
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
@@ -161,7 +161,7 @@ This lecture continues covering tree-based ensemble techniques with an in-depth 
  
 The material covered in this lecture is drawn from the following chapters of the reference texts. 
  
-* Chapter 7 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 7 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 3 and 7 of ML with PyTorch and Sklearn 
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
@@ -176,7 +176,7 @@ Many ML systems suffer from the curse of dimensionality: the training time of ma
  
 The material covered in this lecture is drawn from the following chapters of the reference texts. 
  
-* Chapter 8 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 8 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 5 of ML with PyTorch and Sklearn 
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
@@ -189,7 +189,7 @@ This lecture will cover the key ideas behind unsupervised learning techniques an
  
 The material covered in this lecture is drawn from the following chapters of the reference texts. 
  
-* Chapter 9 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 9 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 10 of ML with PyTorch and Sklearn
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
@@ -204,21 +204,21 @@ While neural networks are not (yet?) state-of-the-art approach for most tabular 
  
 The material covered in this lecture is drawn from the following chapters of the reference texts. 
  
-* Chapter 10 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 10 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 11 of ML with PyTorch and Sklearn 
 
 #### Lecture 2: Fundamentals for DNN training and validation 
  
 The material covered in this lecture is drawn from the following chapters of the reference texts. 
  
-* Chapter 11 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 11 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 12 of ML with PyTorch and Sklearn 
 
 #### Lecture 3: Optimizers, learning rates and batch sizes 
  
 The material covered in this lecture is drawn from the following chapters of the reference texts. 
  
-* Chapter 11 of Hands-on ML with Sklearn, Keras, and TF 
+* Chapter 11 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 12 of ML with PyTorch and Sklearn 
 
 ### Module 5:
