@@ -2,24 +2,27 @@
 
 # Introduction to Machine Learning
 
-There is strong demand for machine learning (ML) skills and expertise to solve challenging business problems both globally and locally in KSA. This course will help learners build capacity in core ML tools and methods and enable them to develop their own machine learning applications. This course covers the basic theory behind ML algorithms but the majority of the focus is on hands-on examples using [Scikit Learn](https://scikit-learn.org/stable/index.html).
+While most AI research focuses on applying deep learning to unstructured data such as text and images, many real-world AI applications involve applying machine learning to structured, tabular data. This course's objective is to provide students with practical, hands-on experience with state-of-the-art machine learning tools widely used in industry to solve science and engineering problems based on structured, tabular data.  
+
+On completion of this course students will:  
+
+* Implement complete machine learning pipelines using Scikit-Learn to solve supervised and unsupervised learning problems with a variety of techniques; 
+* Understand various failure modes that can arise when training machine learning pipelines and be able to recognize and troubleshoot these failure modes in their own work; 
+* Develop, train, and deploy complete machine learning applications.This course covers the basic theory behind ML algorithms but the majority of the focus is on hands-on examples using [Scikit Learn](https://scikit-learn.org/stable/index.html).
 
 ## Learning Objectives
 
-The primary learning objective of this course is to provide students with practical, hands-on experience with state-of-the-art machine learning and deep learning tools that are widely used in industry.
-
-The first part of this course covers chapters 1-10 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). The following topics will be discussed.
-
-* The Machine Learning Landscape 
-* End-to-End Machine Learning Projects 
-* Classification 
-* Training Models 
-* Support Vector Machines (SVMs) 
-* Decision Trees 
-* Ensemble Methods and Random Forests 
-* Dimensionality Reduction 
-* Unsupervised Learning Techniques 
-* Introduction to Artificial Neural Networks 
+### Capabilities (knowledge & understanding): 
+ 
+* Understand the distinct types of machine learning problems that exist in practice; understand the basic parts of typical machine learning solutions. 
+* Understand the limitations of linear models; understand the trade-offs of various non-linear models. 
+* Understand failure modes that are encountered when building machine learning pipelines. 
+ 
+### Competencies (skills):  
+ 
+* Be able to implement a complete machine learning workflow using Scikit-Learn to solve supervised and unsupervised learning problems using linear models.  
+* Train, validate, and test machine learning pipelines using non-linear models with [Scikit Learn](https://scikit-learn.org/stable/index.html). 
+* Analyze and ‘troubleshoot’ failure modes in their own work. 
 
 ## Lessons
 
