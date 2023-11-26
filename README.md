@@ -63,7 +63,7 @@ The material covered in this lecture is drawn from the following chapters of the
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
-| Example ML Project | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) |
+| Example ML Project | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) |
 
 #### [Lecture 3: Classification](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EX-5OGeDdUZNkZ860Vtmj2UB_-QhVq7X8QNXQUpvDz6bZA?e=vVyqRR)
  
@@ -80,7 +80,7 @@ The material covered in this lecture is drawn from the following chapters of the
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
-| Example ML Project | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) |
+| Classification | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/introduction-to-sklearn-lecture-3.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/introduction-to-sklearn-lecture-3.ipynb) |
 
 #### [Lecture 4: Training Models, part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EVbGtHpHYSdIvVF-nhdOPsABVuTy31eXTCR4pfo8ba5rXQ?e=DpihzG) 
  
@@ -98,7 +98,7 @@ The material covered in this lecture is drawn from the following chapters of the
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
 | Linear Regression with NumPy | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) |
-| Introduction to Scikit-Learn | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-1.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-1.ipynb) |
+| Linear Regression with Scikit-Learn | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/introduction-to-sklearn-lecture-4-part-2.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/introduction-to-sklearn-lecture-4-part-2.ipynb) |
 
 #### [Lecture 5: Training Models, part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EXfCRou1k69NkzeMvZsVryYBRFb-gKsNzDqpzUfa-JVPpA?e=zRxc0k) 
  
@@ -112,7 +112,7 @@ The material covered in this lecture is drawn from the following chapters of the
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
 | Logistic Regression with NumPy | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) |
-| Introduction to Scikit-Learn | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-1.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-1.ipynb) |
+| Logistic Regression with Scikit-Learn | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/introduction-to-sklearn-lecture-5-part-2.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/introduction-to-sklearn-lecture-5-part-2.ipynb) |
 
 ### Module 2: [Introduction to Machine Learning, Part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EYVl3sggch1HqEKHZO8O9t4BpXwFB3NCMCM0tLue6H0T8Q?e=z2VLrt)
 
