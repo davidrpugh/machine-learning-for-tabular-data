@@ -26,9 +26,9 @@ On completion of this course students will:
 
 ## Lessons
 
-### Module 1: [Introduction to Machine Learning, Part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ESpKKIFbCsVIt06sWnhs7RcBniV7RQAUs2jhOwEAenOm4w?e=FWmjvp)
+### Module 1: Introduction to Machine Learning, Part I
 
-#### Lecture 1: The Machine Learning Landscape
+#### [Lecture 1: The Machine Learning Landscape](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ESpKKIFbCsVIt06sWnhs7RcBniV7RQAUs2jhOwEAenOm4w?e=RVRzzz)
 
 The initial lecture provides a high-level overview of the machine learning (ML) landscape and addresses the following questions.  
  
@@ -42,7 +42,7 @@ The material covered in this lecture is drawn from the following chapters of the
 * Chapter 1 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 1 of ML with PyTorch and Sklearn
 
-#### Lecture 2: End-to-End Machine Learning Project 
+#### [Lecture 2: End-to-End Machine Learning Project](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EaAqGRo1FpJLnx8mxyhpY3IBVnnCIZP-V10MuIvP9vr1-A?e=lM6SjS) 
  
 In this lecture, we will define and discuss the steps for any applied ML project by working through an end-to-end ML project using a real-world dataset as a group.  
  
@@ -65,7 +65,7 @@ The material covered in this lecture is drawn from the following chapters of the
 |--------------|:------------------------:|:------------------:|
 | Example ML Project | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) |
 
-#### Lecture 3: Classification
+#### [Lecture 3: Classification](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EX-5OGeDdUZNkZ860Vtmj2UB_-QhVq7X8QNXQUpvDz6bZA?e=vVyqRR)
  
 In this lecture we will cover the key ideas of one of the major learning tasks performed by supervised ML systems: classification.  
  
@@ -82,7 +82,7 @@ The material covered in this lecture is drawn from the following chapters of the
 |--------------|:------------------------:|:------------------:|
 | Example ML Project | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) |
 
-#### Lecture 4: Training Models, part I 
+#### [Lecture 4: Training Models, part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EVbGtHpHYSdIvVF-nhdOPsABVuTy31eXTCR4pfo8ba5rXQ?e=DpihzG) 
  
 This lecture provides an in-depth discussion of the process of training ML models using stochastic gradient descent. The process will be illustrated using various linear regression models. 
  
@@ -100,7 +100,7 @@ The material covered in this lecture is drawn from the following chapters of the
 | Linear Regression with NumPy | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-0.ipynb) |
 | Introduction to Scikit-Learn | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-1.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-1.ipynb) |
 
-#### Lecture 5: Training Models, part II 
+#### [Lecture 5: Training Models, part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EXfCRou1k69NkzeMvZsVryYBRFb-gKsNzDqpzUfa-JVPpA?e=zRxc0k) 
  
 Review the key ideas presented in the previous lecture but this time using logistic regression (with and without regularization) to illustrate the training process. 
  
