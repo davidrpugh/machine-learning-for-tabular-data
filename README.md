@@ -184,9 +184,9 @@ The material covered in this lecture is drawn from the following chapters of the
 |--------------|:------------------------:|:------------------:|
 | Ensemble Methods, II | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-2.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-2.ipynb)
 
-### Module 3: [Introduction to Machine Learning, Part III](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EeueWHxeVMxKjkth_Qk9f0UBfJhcRRqVMxyXXKJkxC53oA?e=wHk5xD)
+### Module 3: Introduction to Machine Learning, Part III
 
-#### Lecture 1: Dimensionality Reduction 
+#### Lecture 1: [Dimensionality Reduction](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EbBg__P2wu5Gp4BZ3iMcv-0BlVAa3j2SWz7rJjRj5udBZQ?e=IDyQTX) 
  
 Many ML systems suffer from the curse of dimensionality: the training time of many ML systems increases rapidly as the number of features in the dataset increases. This lecture covers the key ideas of dimensionality reduction and various algorithms for performing dimensionality reduction such as Principal Components Analysis (PCA), Locally Linear Embedding (LLE), et al. Tradeoffs between the various methods will be discussed. 
  
@@ -199,7 +199,7 @@ The material covered in this lecture is drawn from the following chapters of the
 |--------------|:------------------------:|:------------------:|
 | Dimensionality Reduction | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb)
 
-#### Lecture 2: Unsupervised Learning Techniques 
+#### Lecture 2: [Unsupervised Learning Techniques](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EV1cUHcyAwtHqWsr4IdidxUBRclSLycFCPQusvkHJ48XdA?e=X034dA) 
  
 This lecture will cover the key ideas behind unsupervised learning techniques and will include an in-depth discussion of the K-means algorithm. Other approaches to unsupervised learning will be discussed such as DBSCAN, and Gaussian Mixture Models (GMMs).  
  
@@ -210,7 +210,7 @@ The material covered in this lecture is drawn from the following chapters of the
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
-| Dimensionality Reduction | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb)
+| Unsupervised Learning | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb)
 
 ### Module 4: Introduction to Machine Learning, Part IV
 
