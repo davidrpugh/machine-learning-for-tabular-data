@@ -129,9 +129,9 @@ The material covered in this lecture is drawn from the following chapters of the
 | Logistic Regression with Scikit-Learn | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-2c.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-2c.ipynb) |
 | Softmax Regression with Scikit-Learn | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-2d.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-2d.ipynb) |
 
-### Module 2: [Introduction to Machine Learning, Part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EYVl3sggch1HqEKHZO8O9t4BpXwFB3NCMCM0tLue6H0T8Q?e=z2VLrt)
+### Module 2: Introduction to Machine Learning, Part II
 
-#### Lecture 1: Support Vector Machines (SVMs) 
+#### [Lecture 1: Support Vector Machines (SVMs)](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EYVl3sggch1HqEKHZO8O9t4BpXwFB3NCMCM0tLue6H0T8Q?e=OVJ6pP) 
  
 In this lecture we will cover both linear and non-linear support vector machines (SVMs) and see how to apply these algorithms to solve both classification and regression tasks.  
  
@@ -144,7 +144,7 @@ The material covered in this lecture is drawn from the following chapters of the
 |--------------|:------------------------:|:------------------:|
 | Support Vector Machines (SVMs) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-2.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-2.ipynb)
 
-#### Lecture 2: Decision Trees 
+#### [Lecture 2: Decision Trees](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ERUV_7w96JNKvkR_XF882yYBynuAdwv_xFVGf-KXxrZ7VQ?e=GGQyxV) 
  
 Tree-based models such as random forests and gradient-boosted trees are state-of-the-art ML methods for tabular data. But before we can cover these state-of-the-art methods, we need to discuss decision trees in detail. This lecture will focus on the key ideas behind decision tree implementation and how to tune decision trees to avoid overfitting. 
  
@@ -158,7 +158,7 @@ The material covered in this lecture is drawn from the following chapters of the
 | Decision Trees (Classification) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-7a.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-7a.ipynb) |
 | Decision Trees (Regression) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-7b.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-7b.ipynb) |
 
-#### Lecture 3: Ensemble Methods, part I 
+#### [Lecture 3: Ensemble Methods, part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ESxKhuoLGl1KgpCLF1EgHtEBUn8Gzc0umFGPLMNWbXZoWw?e=tzFTuM) 
  
 Ensemble, tree-based models such as random forests and gradient-boosted trees are state-of-the-art ML methods for tabular data. In this lecture we will cover these approaches in detail. We will discuss the key ideas behind ensemble methods such as voting, bagging, and pasting and how to implement these approaches in practice to solve classification and regression tasks via random forests. 
  
@@ -171,7 +171,7 @@ The material covered in this lecture is drawn from the following chapters of the
 |--------------|:------------------------:|:------------------:|
 | Ensemble Methods, part I |  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-8-part-1a.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-8-part-1a.ipynb) |
 
-#### Lecture 4: Ensemble Methods, part II 
+#### [Lecture 4: Ensemble Methods, part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EU74lLrGHMpBjB1PqjRkib8B_6L9lzU_q7BbapMzTKBZKA?e=LXkanh) 
  
 This lecture continues covering tree-based ensemble techniques with an in-depth discussion of gradient boosted trees. Gradient boosted trees are the most widely used ML algorithms in industry and continue to deliver state-of-the-art performance on tabular data problems and time-series forecasting problems. Two popular implementations of gradient boosted trees will be discussed: XGBoost and CatBoost. 
  
@@ -186,7 +186,7 @@ The material covered in this lecture is drawn from the following chapters of the
 
 ### Module 3: Introduction to Machine Learning, Part III
 
-#### Lecture 1: [Dimensionality Reduction](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EbBg__P2wu5Gp4BZ3iMcv-0BlVAa3j2SWz7rJjRj5udBZQ?e=IDyQTX) 
+#### [Lecture 1: Dimensionality Reduction](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EbBg__P2wu5Gp4BZ3iMcv-0BlVAa3j2SWz7rJjRj5udBZQ?e=IDyQTX) 
  
 Many ML systems suffer from the curse of dimensionality: the training time of many ML systems increases rapidly as the number of features in the dataset increases. This lecture covers the key ideas of dimensionality reduction and various algorithms for performing dimensionality reduction such as Principal Components Analysis (PCA), Locally Linear Embedding (LLE), et al. Tradeoffs between the various methods will be discussed. 
  
@@ -199,7 +199,7 @@ The material covered in this lecture is drawn from the following chapters of the
 |--------------|:------------------------:|:------------------:|
 | Dimensionality Reduction | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb)
 
-#### Lecture 2: [Unsupervised Learning Techniques](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EV1cUHcyAwtHqWsr4IdidxUBRclSLycFCPQusvkHJ48XdA?e=X034dA) 
+#### [Lecture 2: Unsupervised Learning Techniques](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EV1cUHcyAwtHqWsr4IdidxUBRclSLycFCPQusvkHJ48XdA?e=X034dA) 
  
 This lecture will cover the key ideas behind unsupervised learning techniques and will include an in-depth discussion of the K-means algorithm. Other approaches to unsupervised learning will be discussed such as DBSCAN, and Gaussian Mixture Models (GMMs).  
  
