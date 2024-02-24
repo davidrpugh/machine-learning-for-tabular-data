@@ -197,7 +197,7 @@ The material covered in this lecture is drawn from the following chapters of the
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
-| Dimensionality Reduction | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-machine-learning/blob/main/notebooks/introduction-to-sklearn-part-3.ipynb)
+| Dimensionality Reduction | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/module-3-lecture-1.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/module-3-lecture-1.ipynb)
 
 #### [Lecture 2: Unsupervised Learning Techniques](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EV1cUHcyAwtHqWsr4IdidxUBRclSLycFCPQusvkHJ48XdA?e=X034dA) 
  
