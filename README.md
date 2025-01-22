@@ -28,7 +28,7 @@ On completion of this course students will:
 
 ### Module 1: Introduction to Machine Learning, Part I
 
-#### [Lecture 1: The Machine Learning Landscape](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ESpKKIFbCsVIt06sWnhs7RcBniV7RQAUs2jhOwEAenOm4w?e=RVRzzz)
+#### [Lecture 1: The Machine Learning Landscape](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EWo8HoVvDINJoDmQZzRbdeMBrUru9WCO6-6ZMJarjQb9Yg?e=6mjSEU)
 
 The initial lecture provides a high-level overview of the machine learning (ML) landscape and addresses the following questions.  
  
@@ -69,7 +69,7 @@ The material covered in this lecture is drawn from the following chapters of the
 | Training Models | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-2d.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-2d.ipynb) |
 | Fine-tuning Models | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-2e.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-2e.ipynb) |
 
-#### [Lecture 3: Classification](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EX-5OGeDdUZNkZ860Vtmj2UB_-QhVq7X8QNXQUpvDz6bZA?e=vVyqRR)
+#### [Lecture 3: Classification](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/Ef0qvvwoIQNCgt0KzUbpJDUB5j27rXuuMwEvXpKKBL89zQ?e=DNuiOX)
  
 In this lecture we will cover the key ideas of one of the major learning tasks performed by supervised ML systems: classification.  
  
@@ -92,7 +92,7 @@ The material covered in this lecture is drawn from the following chapters of the
 | Calibration | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-3f.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-3f.ipynb) |
 | End-to-end Classification | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-3g.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-3g.ipynb) |
 
-#### [Lecture 4: Training Models, part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EVbGtHpHYSdIvVF-nhdOPsABVuTy31eXTCR4pfo8ba5rXQ?e=DpihzG) 
+#### [Lecture 4: Training Models, part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EVGb6b2kAABAuSkrAJd5Ps0BPlT3KlrCVOilkMN0K_stKg?e=71LcoN) 
  
 This lecture provides an in-depth discussion of the process of training ML models using stochastic gradient descent. The process will be illustrated using various linear regression models. 
  
@@ -113,7 +113,7 @@ The material covered in this lecture is drawn from the following chapters of the
 | Polynomial Regression |  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-1d.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-1d.ipynb) |
 | Regularized Linear Regression |  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-1d.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-1d.ipynb) |
 
-#### [Lecture 5: Training Models, part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EXfCRou1k69NkzeMvZsVryYBRFb-gKsNzDqpzUfa-JVPpA?e=zRxc0k) 
+#### [Lecture 5: Training Models, part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EVGb6b2kAABAuSkrAJd5Ps0BPlT3KlrCVOilkMN0K_stKg?e=71LcoN) 
  
 Review the key ideas presented in the previous lecture but this time using logistic and softmax regression (with and without regularization) to illustrate the training process.
 
