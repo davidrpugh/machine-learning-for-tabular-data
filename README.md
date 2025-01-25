@@ -144,7 +144,7 @@ The material covered in this lecture is drawn from the following chapters of the
 |--------------|:------------------------:|:------------------:|
 | SVMs (Classification) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-5a.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-5a.ipynb)
 
-#### [Lecture 2: Decision Trees](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ERUV_7w96JNKvkR_XF882yYBynuAdwv_xFVGf-KXxrZ7VQ?e=GGQyxV) 
+#### [Lecture 2: Decision Trees](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ERMDJZ6MYP9DrxSm2EIbjA8BTGg9Z3-LG5KB4JMyVUFDNQ?e=9RrsdZ) 
  
 Tree-based models such as random forests and gradient-boosted trees are state-of-the-art ML methods for tabular data. But before we can cover these state-of-the-art methods, we need to discuss decision trees in detail. This lecture will focus on the key ideas behind decision tree implementation and how to tune decision trees to avoid overfitting. 
  
@@ -158,7 +158,7 @@ The material covered in this lecture is drawn from the following chapters of the
 | Decision Trees (Classification) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-7a.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-7a.ipynb) |
 | Decision Trees (Regression) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-7b.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-7b.ipynb) |
 
-#### [Lecture 3: Ensemble Methods, part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ESxKhuoLGl1KgpCLF1EgHtEBUn8Gzc0umFGPLMNWbXZoWw?e=tzFTuM) 
+#### [Lecture 3: Ensemble Methods, part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EfOwBOSsVVFBl8GkX23wsHwB49JB0jCao1IZbIIiBT_6cw?e=j1Jyzo) 
  
 Ensemble, tree-based models such as random forests and gradient-boosted trees are state-of-the-art ML methods for tabular data. In this lecture we will cover these approaches in detail. We will discuss the key ideas behind ensemble methods such as voting, bagging, and pasting and how to implement these approaches in practice to solve classification and regression tasks via random forests. 
  
