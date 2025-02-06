@@ -171,7 +171,7 @@ The material covered in this lecture is drawn from the following chapters of the
 |--------------|:------------------------:|:------------------:|
 | Ensemble Methods, part I |  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-8-part-1a.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-8-part-1a.ipynb) |
 
-#### [Lecture 4: Ensemble Methods, part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EU74lLrGHMpBjB1PqjRkib8B_6L9lzU_q7BbapMzTKBZKA?e=LXkanh) 
+#### [Lecture 4: Ensemble Methods, part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EZgXMV7npzlKrfWH1A8v2loBMPlAkYLOFpD6iOBw27A81w?e=Ni0dY0) 
  
 This lecture continues covering tree-based ensemble techniques with an in-depth discussion of gradient boosted trees. Gradient boosted trees are the most widely used ML algorithms in industry and continue to deliver state-of-the-art performance on tabular data problems and time-series forecasting problems. Two popular implementations of gradient boosted trees will be discussed: XGBoost and CatBoost. 
  
